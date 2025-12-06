@@ -5,6 +5,7 @@ A real-time 3D ray casting engine rendered entirely in the Windows console using
 ## Overview
 
 This is a simple first-person 3D maze renderer that uses ray casting to create a pseudo-3D perspective view in a console window. The engine casts rays from the player's position to determine wall distances and renders walls with distance-based shading, creating an immersive retro gaming experience reminiscent of early games like Wolfenstein 3D.
+![](raycaster_visual_overview.png)
 
 ## Features
 
